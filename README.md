@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PraveenKum11
 - 👀 I’m interested in Software Devlopment, Web Dev, Machine Learning, Data Science, and Electronics.
-- 🌱 I’m currently learning DS/Algo.
 - 📫 You can reach me via my mail - praveenkum1102@gmail.com
 
 <!---
