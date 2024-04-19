@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PraveenKum11
-- 👀 I’m interested in Software Devlopment, Web Dev, Machine Learning, Data Science, and Electronics.
+- 👀 I’m interested in Software Devlopment, Web Dev, and Electronics.
 - 📫 You can reach me via my mail - praveenkum1102@gmail.com
 
 <!---
